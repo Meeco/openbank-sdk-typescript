@@ -1,0 +1,1 @@
+{"version":3,"sources":["variables.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,eAAe,CAAC;AAE/C,MAAM,CAAC,IAAM,SAAS,GAAG,IAAI,cAAc,CAAS,UAAU,CAAC,CAAC;AAChE,MAAM,CAAC,IAAM,kBAAkB,GAAG;IAC9B,KAAK,EAAE,GAAG;IACV,KAAK,EAAE,KAAK;IACZ,KAAK,EAAE,GAAG;IACV,OAAO,EAAE,GAAG;CACf,CAAA","file":"variables.js","sourceRoot":"/Users/probinson/hackathon/obp/sdk/src/"}
