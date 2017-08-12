@@ -19,6 +19,7 @@ import {Location} from './location';
 import {Meta} from './meta';
 
 
+
 export interface Branch {
   name: string;
 
