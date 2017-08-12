@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":3,"metadata":{"APIS":[{"__symbolic":"reference","module":"./default.service","name":"DefaultService"}]},"exports":[{"from":"./default.service"}]},{"__symbolic":"module","version":1,"metadata":{"APIS":[{"__symbolic":"reference","module":"./default.service","name":"DefaultService"}]},"exports":[{"from":"./default.service"}]}]
