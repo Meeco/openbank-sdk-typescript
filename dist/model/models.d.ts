@@ -236,7 +236,6 @@ export * from './messageDocsJson';
 export * from './meta';
 export * from './metaJsonV140';
 export * from './metricJson';
-export * from './metricsJson';
 export * from './minimalBankJSON';
 export * from './modelBoolean';
 export * from './moderatedAccountJSON';
